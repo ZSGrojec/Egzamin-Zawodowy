@@ -20,3 +20,5 @@
 # INF.04
 ### INF.04 (podstawa PP2019): od 2021 do 2026 (czerwiec)   :  [ pliki ](https://github.com/ZSGrojec/Egzaminy-Zawodowe/tree/main/INF04)
 
+INF04
+
