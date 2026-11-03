@@ -1,6 +1,8 @@
 # Materiały z Egzaminów Zawodowych
-#
-#
+
+# TECHNIK INFORMATYK (INF.02, INF.03)
+
+# TECHNIK PROGRAMISTA (INF.03, INF.04)
 
 # E12 / E13 / EE.08 / INF.02
 ### E12 (podstawa PP2012):    od 2013 do 2024 (czerwiec)   :  [pliki](https://github.com/ZSGrojec/Egzamin-Zawodowy/tree/master/E12-E13-EE08-INF02)
